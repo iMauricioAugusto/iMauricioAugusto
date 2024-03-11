@@ -1,7 +1,7 @@
 ### Ola Mundo!!
 
 - 🔭 Atualmente trabalho com back-end
-- 🌱 Estudando django
+- 🌱 Estudando SQL e Django
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mauricio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,7 +10,7 @@
   <img align="center" alt="Mauricio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mauricio-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img align="center" alt="Mauricio-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-
+  <img align="center" alt="Mauricio-Github" height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg
 </div>
 
 ###
