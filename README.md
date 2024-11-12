@@ -1,6 +1,6 @@
 ### Ola Mundo!!
 
-- 👨‍💻Atualmente Estudo back-end
+- 👨‍💻Back-End Developer
 - 📚Estudando Banco de dados e APIs
 
 <div style="display: inline_block"><br>
